@@ -16,4 +16,5 @@ CAN I MODIFY THIS SCRIPT HOWEVER I'D LIKE?
 Yes, you may. One functionality I had written but later was scrapped was a hash stored in a file named "pass.txt". If the computer stored pass and the usb pass were matching it would hash the previous password, a random number and the current time and update both. The purpose of this was that I was later planning on writing a script which added a task to the task scheduler and that it would only run if the software trying to be run was authorized but I couldnt figure how to add tasks programatically.
 
 HOW TO SET THIS UP?
-Just drop all the files in the folder to a USB and run the bat file. It may take a little while to read python from the usb. You may click on files and folders (other than the bat file) and from properties click hidden and apply to make them hidden.
+Click on code, download as zip and once downloaded extract all. Just drop all the files in the obviously named folder to a USB and run the bat file. It may take a little while to read python from the usb. You may click on files and folders (other than the bat file) and from properties click hidden and apply to make them hidden.
+
