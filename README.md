@@ -28,6 +28,10 @@ When you first run the bat file after plugging the usb into a computer, since it
 #### This popup was implemented by me and is completely safe, its purpose is to remind the user to be safe.
 ![image](https://github.com/user-attachments/assets/4d272f23-9610-4e09-809d-df5308fccd6a)
 
+##### Note: Don't want to see this? You can remove the following line which is located towards the end in the outpost.py file which is in the python directory to remove it.
+![image](https://github.com/user-attachments/assets/45e76604-e93a-40ee-ae8f-fd54a4449cdd)
+
+
 ### 2) Enter Password
 #### The second popup you will see will prompt you to enter a password. If you click cancel or close this window, the program will stop. This password will be hashed and used for encryption/decryption. There will be a confirmation window for the password too. The password can later be changed.
 ![image](https://github.com/user-attachments/assets/98f97231-471b-4e09-a2f6-b6370c082f57)
