@@ -44,7 +44,7 @@ When you first run the bat file after plugging the usb into a computer, since it
 
 #### b) Encrypt: This button will encrypt an excel file of your choice with your current key. After that, it will be saved to the usb with the name you provide which can only consist of ASCII characters (filename-copy(x).txt file will be created if a file with the same name already exists). I haven't tested the program with more complex files but just tabular files with simple strings inside so don't push your luck with the program.
 
-#### c) Decrypt: This button will attempt to decrypt an encrypted file with the current key. If the file can't be decrypted with the current key the user will be notified with a messagebox. If the file can be decrypted, a new window with the file's contents will popup. You can double click on the information you want to use to highlight it and copy it with ctrl+c. There can be as many decrypted window files open simultaniously as you want. An example of a decryption window:
+#### c) Decrypt: This button will attempt to decrypt an encrypted file with the current key. If the file can't be decrypted with the current key the user will be notified with a messagebox. If the file can be decrypted, a new window with the file's contents will popup. You can double click on the information you want to use to highlight it and copy it with ctrl+c. There can be as many decrypted file windows open simultaniously as you want. An example of a decryption window:
 ![image](https://github.com/user-attachments/assets/d9acd381-9439-4716-abaa-38cdcc4ee0e8)
 
 #### d) Create: The purpose of this is to create an in memory editor as sensitive data may not be wanted to be written on a disk before being encrypted. When you click this, a new window will popup:
