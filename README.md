@@ -21,6 +21,9 @@ Yes, you may. One functionality I had written but later was scrapped was a hash 
 ## HOW TO MAKE THIS FASTER?
 You can copy paste the python installation to your computer and create a new bat file with the same contents but with the path to the python on your computer to make the code run significantly faster (as it is slower to read from a usb).
 
+## WHY WASN'T THIS SCRIPT MADE AN .EXE?
+When I made the script into an exe file with pyinstaller, it was way slower and some functionality stopped working.
+
 ## USING THIS
 When you first run the bat file after plugging the usb into a computer, since it's reading all the packages from python it might take several minutes to run. So please don't click on the bat file a thousand times as it will run a thousand instances of the program. Running it a second time after closing it will be significantly faster.
 
