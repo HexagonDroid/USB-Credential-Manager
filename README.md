@@ -1,4 +1,4 @@
-This software was created with and for windows. This may or may not work on other platforms. Use at your own risk; the program may not be that secure as I had no previous experience with cryptography before this program was made. [Program showcase](https://github.com/HexagonDroid/USB-Credential-Manager/edit/main/README.md#using-this)
+This software was created with and for windows. This may or may not work on other platforms. Use at your own risk; the program may not be that secure as I had no previous experience with cryptography before this program was made. [Program showcase](#using-this)
 
 ## HOW TO SET THIS UP?
 Click on code, download as zip and once downloaded extract all. Just drop all the files in the obviously named folder to a USB and run the bat file. It may take a little while to read python from the usb. You may click on files and folders (other than the bat file) and from properties click hidden and apply to make them hidden. 
